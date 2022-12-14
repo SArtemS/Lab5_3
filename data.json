@@ -1,0 +1,10 @@
+{
+    "name": "New York",
+    "country": "US",
+    "coord": {
+        "lon": -74.006,
+        "lat": 40.7143
+    },
+    "timezone": "UTC-05:00",
+    "feels_like": -5.23
+}
